@@ -1,4 +1,4 @@
-# Patika-Veri-Bilimine-Giri-
+# Patika-Veri-Bilimine-Giris-
 Merhabalar,
 
 Bir biyomedikal mühendisi olarak, çalışmalarımızda kullandığımız ROC Analizinden bahsetmek istedim. 
